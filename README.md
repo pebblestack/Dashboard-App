@@ -3,5 +3,3 @@
 
 ## Introduction
 Sample dashboard app using React.
-
-## Access the app from here - https://www.jsmastery.pro
