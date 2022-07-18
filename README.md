@@ -1,7 +1,7 @@
-# Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
+# Dashboard App
 ![Shoppy](https://i.ibb.co/W6g39w3/image.png)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial.
+Sample dashboard app using React.
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+## Access the app from here - https://www.jsmastery.pro
